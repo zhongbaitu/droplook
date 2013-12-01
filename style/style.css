@@ -1,0 +1,76 @@
+body{
+	margin:0;
+	background:url(../pro_img/dots.png) repeat,
+	url(../pro_img/bg2.jpg) center fixed;
+	background-size:auto cover;
+	font-family:"Adobe 黑体 Std R";
+	color:#FFF;
+	}
+#wraper{
+	text-align:center;
+	width:820px;
+	margin:70px auto;
+	overflow:auto;
+	height:560px;
+	}
+#drop_zone{
+	float:left;
+	width:248px;
+	height:520px;
+	background:url(../pro_img/iphone.png) ;
+	position:relative;
+	top:0;
+	left:0;
+	color:#000;
+		}
+#guide_text{
+	position:absolute;
+	width:208px;
+	height:301px;
+	background:#FFF;
+	top:95px;
+	left:21px;
+	font-size:36px;
+	padding-top:50px;
+	line-height:60px;
+	overflow:hidden;
+	}
+.intro{
+	margin-top:20px;
+	width:330px;
+	float:right;
+	text-align:center;
+	line-height:30px;
+	}
+.title{
+	font-size:50px;
+	padding-bottom:40px;
+	}
+#output_text{
+	margin-top:90px;
+	}
+#output_area{
+	z-index:2;
+	}
+#footer{
+	width:100%;
+	text-align:center;
+	}
+a{
+	color:#FFF;
+	text-decoration:none;
+	}
+a:hover{
+	text-decoration:underline;
+	}
+#clock{
+	position:absolute;
+	top:78px;
+	left:100px;
+	z-index:1;
+	font-size:11px;
+	}
+.clear_margin{
+	margin:0;
+	}
+	
