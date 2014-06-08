@@ -1,27 +1,14 @@
 droplook
 ========
 
-droplook,welcome to fork
+å®žæ—¶æ•ˆæžœå›¾é¢„è§ˆï¼Œå’Œæ•°æ®çº¿è¯´æ‹œæ‹œã€‚
 
-ÊµÊ±Ð§¹ûÍ¼Ô¤ÀÀ£¬ºÍÊý¾ÝÏßËµ°Ý°Ý¡£
+åªè¦ä¸€æ‹–ä¸€æ‰«å³å¯é¢„è§ˆï¼Œä¸€æ‹–ä¸€åˆ·æ–°å³å¯æ›´æ–°
 
-Ö»ÒªÒ»ÍÏÒ»É¨¼´¿ÉÔ¤ÀÀ£¬Ò»ÍÏÒ»Ë¢ÐÂ¼´¿É¸üÐÂ
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”ä¸ºç§»åŠ¨è®¾è®¡å¸ˆæ‰“é€ 
 
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ªÎªÒÆ¶¯Éè¼ÆÊ¦´òÔì
+![](http://zhongsir.qiniudn.com/2014-6-8/20140608231238.jpg)
 
-index.php  ¡ª¡ª¡ª¡ªÊ×Ò³£¨Ö÷½çÃæ£©
-
-config.php ¡ª¡ª¡ª¡ªÁ¬½ÓÊý¾Ý¿â
-
-subDo.php  ¡ª¡ª¡ª¡ªÉÏ´«µÄÍ¼Æ¬Ìá½»´¦ÀíÒ³
-
-qrcode.php ¡ª¡ª¡ª¡ª¶þÎ¬ÂëÊä³öÒ³
-
-show.php   ¡ª¡ª¡ª¡ªÊÖ»ú·ÃÎÊÏÔÊ¾Í¼Æ¬Ò³Ãæ 
-
-Í¼Æ¬ÉÏ´«ÖÁ£ºimages
-
-ÎÊÌâÁªÏµ£ºi@hackeris.me
-
+![](http://zhongsir.qiniudn.com/2014-6-8/20140608231249.jpg)
 
 
